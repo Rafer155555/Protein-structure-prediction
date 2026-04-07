@@ -1,0 +1,1 @@
+TensorFlow>=2.0.0\nNumPy>=1.19.0\nPandas>=1.1.0\nscikit-learn>=0.24.0\nBiopython>=1.78\nmatplotlib>=3.3.0\nseaborn>=0.11.0\njupyter>=1.0.0\nscipy>=1.5.0
